@@ -31,7 +31,7 @@ This analysis will be conducted using air quality data from Lagos in December,
 archive-lagos) 
 <br>OpenAFRICA is Africa’s largest volunteer driven open data platform 
 
-**<br>Models Used:**
+**<br>Models Used** 
 1. Linear Regression: To quantify the direct relationship between weather 
 variables and pollution. 
 2. Random Forest: To capture complex, non-linear spikes and human activity 
