@@ -3,8 +3,7 @@
 Clean air is a critical component of any society's standard of living, and Lagos is 
 no different. However, with the rise of industrialization and population growth this 
 has led to an increase in carbon emitting daily functions such as driving, industrial 
-processing, inappropriate disposal of waste -while seasonal harmattan remains a 
-key factor- and more.  
+processing, inappropriate disposal of waste -while seasonal harmattan remains a key factor-and more.  
 As a result, air pollution has become a significant problem in Lagos. The primary 
 culprit of air pollution are PM2.5 particles. PM2.5 levels refer to the concentration 
 of fine particulate matter in the air that has a diameter of 2.5 micrometers or 
