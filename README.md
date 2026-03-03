@@ -9,7 +9,7 @@ culprit of air pollution are PM2.5 particles. PM2.5 levels refer to the concentr
 of fine particulate matter in the air that has a diameter of 2.5 micrometers or 
 smaller. PM2.5 emissions are found in vehicle emissions, combustion of gasoline, 
 oil, diesel fuel or wood, industrial machinery, and more. 
-<br>Why is this important to know? 
+**<br>Why is this important to know?<br>**
 Due to its microscopic size, PM2.5 levels can bypass the body’s defense and 
 effectively weaken it. Some harmful effects are: 
 1. Penetrating deep into the lungs 
