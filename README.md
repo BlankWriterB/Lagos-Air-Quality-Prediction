@@ -21,10 +21,10 @@ effectively weaken it. Some harmful effects are:
 The objective is to model and forecast air quality in Lagos to support public health 
 and policy decisions. 
 This entails: 
-• Utilize Machine Learning to predict PM2.5 values. <br>
+<br>• Utilize Machine Learning to predict PM2.5 values. <br>
 • Analyze the key drivers and temporal patterns that propagate dangerous 
 pollution levels. 
-**Dataset**
+<br>**Dataset**
 This analysis will be conducted using air quality data from Lagos in December, 
 2025. 
 Data Source: OpenAFRICA (https://open.africa/dataset/sensorsafrica-airquality
