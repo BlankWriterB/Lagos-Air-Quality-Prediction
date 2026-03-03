@@ -17,7 +17,7 @@ effectively weaken it. Some harmful effects are:
 2. Entering the bloodstream 
 3. Increasing risk of asthma, heart disease, and respiratory illness 
 
-**<br>Objectives<br>**
+## <br>Objectives<br>
 The objective is to model and forecast air quality in Lagos to support public health 
 and policy decisions. 
 This entails: 
@@ -25,20 +25,20 @@ This entails:
 • Analyze the key drivers and temporal patterns that propagate dangerous 
 pollution levels. 
 
-<br>**Dataset**<br>
+## <br>Dataset<br>
 This analysis will be conducted using air quality data from Lagos in December, 
 2025. 
 <br>Data Source: OpenAFRICA (https://open.africa/dataset/sensorsafrica-airquality
 archive-lagos) 
 <br>OpenAFRICA is Africa’s largest volunteer driven open data platform 
 
-**<br>Models Used** 
+## <br>Models Used 
 1. Linear Regression: To quantify the direct relationship between weather 
 variables and pollution. 
 2. Random Forest: To capture complex, non-linear spikes and human activity 
 patterns. 
 
-<br>**Evaluation Metrics**<br>
+## <br>Evaluation Metrics<br>
 The evaluation of these models will be based on: 
 <br>• Mean Absolute Error
 <br>• R2 Score 
@@ -46,7 +46,7 @@ The evaluation of these models will be based on:
 
 **<br>Note:** The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
 
-**<br>Risks and Limitations**
+## <br>Risks and Limitations
 <br><ins>Sensor location</ins>: Data will be limited to specific locations in Lagos  
 <ins>Seasonality</ins>: December is typically the start of harmattan as well as Christmas 
 holidays-popularly known as Detty December in Lagos. This affects the humidity 
@@ -54,7 +54,7 @@ of the data.
 <br><ins>Complexity of pollution</ins>: The model will not be able to consider key contributing 
 factors such as traffic data, vehicle types, industrial policy changes, or land use 
 changes. <br>
-**<br>Why this matters<br>**
+## <br>Why this matters<br>
 By accurately forecasting air quality proactive measures can be taken to:  
 • mitigate pollution,  
 • support public health planning,  
