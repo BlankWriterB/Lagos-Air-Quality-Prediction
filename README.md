@@ -41,7 +41,7 @@ The evaluation of these models will be based on:
 <br>• Mean Absolute Error
 <br>• R2 Score 
 <br>• RMSE 
-Note: The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
+<br>Note: The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
 
 <br>Risks and Limitations <br>
 Sensor location: Data will be limited to specific locations in Lagos  
@@ -51,10 +51,10 @@ of the data.
 Complexity of pollution: The model will not be able to consider key contributing 
 factors such as traffic data, vehicle types, industrial policy changes, or land use 
 changes. 
-Why this matters 
+<br>Why this matters 
 By accurately forecasting air quality proactive measures can be taken to:  
-• mitigate pollution,  
-• support public health planning,  
-• influence housing and industrial policies, 
-• improve standard of living in Lagos residents
+<br>• mitigate pollution,  
+<br>• support public health planning,  
+<br>• influence housing and industrial policies, 
+<br>• improve standard of living in Lagos residents
 • and improve the overall air quality. 
