@@ -42,7 +42,7 @@ The evaluation of these models will be based on:
 <br>• R2 Score 
 <br>• RMSE
 <br>
-<br>Note: The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
+**<br>Note:** The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
 
 **<br>Risks and Limitations**
 <br>Sensor location: Data will be limited to specific locations in Lagos  
