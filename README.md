@@ -43,7 +43,7 @@ The evaluation of these models will be based on:
 <br>• RMSE 
 <br>Note: The WHO air quality guidelines for PM 2.5 levels is 15 µg/m³ 
 
-<br>Risks and Limitations <br>
+<br>Risks and Limitations
 <br>Sensor location: Data will be limited to specific locations in Lagos  
 <br>Seasonality: December is typically the start of harmattan as well as Christmas 
 holidays -popularly known as Detty December in Lagos. This affects the humidity 
@@ -51,7 +51,7 @@ of the data.
 <br>Complexity of pollution: The model will not be able to consider key contributing 
 factors such as traffic data, vehicle types, industrial policy changes, or land use 
 changes. 
-<br>Why this matters 
+<br>Why this matters<br>
 By accurately forecasting air quality proactive measures can be taken to:  
 • mitigate pollution,  
 • support public health planning,  
