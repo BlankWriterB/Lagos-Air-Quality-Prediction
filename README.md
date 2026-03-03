@@ -27,10 +27,11 @@ pollution levels.
 <br>**Dataset**<br>
 This analysis will be conducted using air quality data from Lagos in December, 
 2025. 
-Data Source: OpenAFRICA (https://open.africa/dataset/sensorsafrica-airquality
+<br>Data Source: OpenAFRICA (https://open.africa/dataset/sensorsafrica-airquality
 archive-lagos) 
-OpenAFRICA is Africa’s largest volunteer driven open data platform 
-**<br>Models Used:<br>**
+<br>OpenAFRICA is Africa’s largest volunteer driven open data platform 
+
+**<br>Models Used:**
 1. Linear Regression: To quantify the direct relationship between weather 
 variables and pollution. 
 2. Random Forest: To capture complex, non-linear spikes and human activity 
